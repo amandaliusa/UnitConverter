@@ -1,3 +1,3 @@
-#A project done for CS11 (C++ Track) at Caltech 
+A project done for CS11 (C++ Track) at Caltech 
 
-#Converts between various units. 
+Converts between various units. 
